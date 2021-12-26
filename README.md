@@ -1,4 +1,6 @@
 # landing-page
+https://kaiqoliveira.github.io/landing-page/
+
 Landing page com HTML, CSS e Javascript para uma startup fictícia que criei para um trabalho da faculdade, a ideia era unir tecnologia e sustentabilidade.
 ![Sem título4](https://user-images.githubusercontent.com/93810894/144339675-18613a87-b5cf-49b9-854d-abcee21e1930.png)
 ![Sem título5](https://user-images.githubusercontent.com/93810894/144339684-978cf431-64df-4aa9-ae08-2068600517a0.png)
